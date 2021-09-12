@@ -1,5 +1,1 @@
-sqlalchemy
-fastapi
-uvicorn
-mysql
-pymysql
+sqlalchemy - fastapi - uvicorn - mysql - pymysql
